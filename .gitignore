@@ -44,7 +44,10 @@ _deps
 *.exe
 *.out
 *.app
+tri
 
 #ignore swap files
 *.swo
 *.swp
+
+
